@@ -4,8 +4,8 @@ El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE PE
 
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos incluirán [TIPO DE DESAFÍOS].
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los estudiantes avanzarán mediante un sistema de niveles. Cada nivel representa [CONCEPTO EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 
 Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará [CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante [MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de juego fluida y atractiva.
+El juego se desarrollará usando unity y tendrá soporte para PC, Android e IOS. Además, se implementarán características como guardado de progreso, sistema de logros, panel para profesores y restroalimentación de forma automática para garantizar una experiencia de juego fluida y atractiva.
