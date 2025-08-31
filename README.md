@@ -1,1 +1,1 @@
-Se realiza un videojuego interactivo
+Se realiza un videojuego interactivo para niños de primaria sobre la ciencia y el medio ambiente, donde se avanza en varios niveles y llegan hacia un mundo final donde podrán evaluar el conocimiento adquirido en los diferentes niveles
