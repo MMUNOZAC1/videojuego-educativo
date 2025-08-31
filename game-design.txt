@@ -2,10 +2,10 @@ ScienceQuest es un videojuego educativo diseñado para enseñar Ciencia y el amb
 
 La protagonista de esta aventura es Sofia, una niña curiosa, valiente, estudiosa y decidida. Sofia es una ecologista que ha sido elegida para una misión única: restaurar el equilibro ambiental para evitar una catastrofe global. Con su cuaderno y creatividad, Sofia deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de la ciencia y el medio ambiente.
 
-El jugador podrá realizar diferentes experimentos, para avanzar deberá resolver misiones en las cuales con el uso de la ciencia pueda abrir puertas, encontrar pistas, realizar trivias y enseñar a otros la importancia del ambiente y como cuidarlo y los desafíos incluirán acertijos sobre ecosistemas, pruebas de energia renovable, misiones sobre el sistema solar y simulaciones de laboratorios.
+El jugador podrá realizar diferentes experimentos, para avanzar deberá resolver misiones en las cuales con el uso de la ciencia pueda abrir puertas. 
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa conceptos omportantes de la ciencia como energia solar, exploración espacial, anatomía básica y fotosíntesis, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los estudiantes avanzarán mediante un sistema de niveles. Cada nivel representa conceptos importantes de la ciencia como energía solar, exploración espacial, ecosistemas y anatomía básica.
 
 Los jugadores aprenderán fotosíntesis y la importancia de las avejas mediante la exploración en un bosque con mucha variedad de flora y fauna, lo que permitirá conocer las avejas y la importancia para la polenización. Se reforzará el cuidado del agua a través de la exploración de una planta purificadora de agua y las evaluaciones se realizarán mediante un mundo final el cual si no es superado no podrá avanzar al otro mundo y a nuevas experiencias, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de juego fluida y atractiva...
+El juego se desarrollará usando unity y tendrá soporte para PC, Android e IOS. Además, se implementarán características como guardado de progreso, sistema de logros, panel para profesores y restroalimentación de forma automática para garantizar una experiencia de juego fluida y atractiva.
